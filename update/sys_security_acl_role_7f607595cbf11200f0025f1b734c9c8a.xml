@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-02-24 18:53:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7f607595cbf11200f0025f1b734c9c8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_idea_management_idea_space.sn_idea_management.user</sys_name>
+        <sys_package display_value="Idea Management" source="sn_idea_management">b360b195cbf11200f0025f1b734c9c7e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Idea Management">b360b195cbf11200f0025f1b734c9c7e</sys_scope>
+        <sys_security_acl display_value="sn_idea_management_idea_space">3f607595cbf11200f0025f1b734c9c89</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7f607595cbf11200f0025f1b734c9c8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-02-24 18:53:54</sys_updated_on>
+        <sys_user_role display_value="sn_idea_management.user" name="sn_idea_management.user">b3607595cbf11200f0025f1b734c9c83</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

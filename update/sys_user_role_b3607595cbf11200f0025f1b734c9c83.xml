@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_idea_management.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-02-24 18:53:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b3607595cbf11200f0025f1b734c9c83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_idea_management.user</sys_name>
+        <sys_package display_value="Idea Management" source="sn_idea_management">b360b195cbf11200f0025f1b734c9c7e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Idea Management">b360b195cbf11200f0025f1b734c9c7e</sys_scope>
+        <sys_update_name>sys_user_role_b3607595cbf11200f0025f1b734c9c83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-02-24 18:53:54</sys_updated_on>
+    </sys_user_role>
+</record_update>
